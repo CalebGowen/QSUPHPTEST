@@ -1,4 +1,4 @@
-<?php echo "Hello";?>
+<?php include("ticketForm.php");?>
 <!doctype html>
 <!--
 	Template:	 Unika - Responsive One Page HTML5 Template
@@ -209,13 +209,6 @@
           </section>
           <!-- End about section -->
 
-              
-              
-              
-
-              
-              
-              
             <!-- Begin Services -->
             <section id="services-section" class="page text-center">
                 <!-- Begin page header-->
